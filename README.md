@@ -1,5 +1,6 @@
 # GitHub Mastery Guide
 
+[![tests](https://github.com/yehudalevy-collab/github-guide/actions/workflows/tests.yml/badge.svg)](https://github.com/yehudalevy-collab/github-guide/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 ![Single file](https://img.shields.io/badge/format-single%20HTML%20file-blue)
 
