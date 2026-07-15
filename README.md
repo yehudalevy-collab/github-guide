@@ -1,12 +1,12 @@
 # GitHub Mastery Guide
 
-[![tests](https://github.com/yehudalevy-collab/github-guide/actions/workflows/tests.yml/badge.svg)](https://github.com/yehudalevy-collab/github-guide/actions/workflows/tests.yml)
+[![tests](https://github.com/ymxlx/github-guide/actions/workflows/tests.yml/badge.svg)](https://github.com/ymxlx/github-guide/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 ![Single file](https://img.shields.io/badge/format-single%20HTML%20file-blue)
 
 A complete field guide to Git and GitHub in a single, self-contained HTML file — 12 chapters plus a full command cheat sheet, organized in three difficulty levels from first `git init` to reflog surgery.
 
-**[Read the guide →](https://yehudalevy-collab.github.io/github-guide/)**
+**[Read the guide →](https://ymxlx.github.io/github-guide/)**
 
 Or open [`github-mastery-guide.html`](github-mastery-guide.html) directly in any browser. No build step, no dependencies, works offline.
 
